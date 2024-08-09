@@ -4,3 +4,13 @@
   padding: 2rem;
   text-align: center;
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.select-renderValue {
+  text-align: left;
+}
